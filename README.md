@@ -5,7 +5,7 @@ Build the docker container with
 
 tag it
 
-`docker tag gcr.io/YOUR-PROJECT/debug-test`
+`docker tag HASH_FROM_PREVIOUS_STEP gcr.io/YOUR-PROJECT/debug-test`
 
 run it
 
